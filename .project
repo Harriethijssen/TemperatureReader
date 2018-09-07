@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TemperatureReader</name>
+	<comment></comment>
+	<projects>
+		<project>NtpClient</project>
+		<project>ConfigManager</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.core.cBuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>org.eclipse.cdt.arduino.core.arduinoNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>ConfigManager</name>
+			<type>2</type>
+			<location>D:/OneDrive/GitHub/ConfigManager</location>
+		</link>
+		<link>
+			<name>NtpClient</name>
+			<type>2</type>
+			<location>D:/OneDrive/GitHub/NtpClient</location>
+		</link>
+	</linkedResources>
+</projectDescription>

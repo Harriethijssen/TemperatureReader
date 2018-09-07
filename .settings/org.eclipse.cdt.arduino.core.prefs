@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+libraries=["ArduinoJson","ESP Async UDP",{"package"\:"esp8266","platform"\:"esp8266","library"\:"ESP8266WiFi"},{"package"\:"esp8266","platform"\:"esp8266","library"\:"EEPROM"},"Time",{"package"\:"esp8266","platform"\:"esp8266","library"\:"DNSServer"},{"package"\:"esp8266","platform"\:"esp8266","library"\:"ESP8266WebServer"},"PubSubClient",{"package"\:"esp8266","platform"\:"esp8266","library"\:"Ticker"}]
